@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "entrees-froides",
+    "icon": "🥗",
+    "name_fr": "Entrées Froides",
+    "name_ar": "المقبلات الباردة",
+    "desc_fr": "Fraîcheur, saveurs méditerranéennes et créations gourmandes.",
+    "desc_ar": "أطباق طازجة ونكهات متوسطية وإبداعات شهية.",
+    "banner": "images/salade_cesar.jpg",
+    "items": [
+      {
+        "name_fr": "Salade César",
+        "name_ar": "سلطة سيزر",
+        "desc_fr": "Poulet grillé, laitue croquante, parmesan, croûtons dorés et sauce César",
+        "desc_ar": "دجاج مشوي، خس مقرمش، بارميزان، خبز محمص وصلصة سيزر",
+        "price": "850 DA",
+        "price_ar": "850 د.ج",
+        "image": "images/salade_cesar.jpg"
+      },
+      {
+        "name_fr": "Salade Buratta",
+        "name_ar": "سلطة بوراتا",
+        "desc_fr": "Burrata crémeuse, tomates fraîches, basilic et filet d'huile d'olive",
+        "desc_ar": "جبنة بوراتا كريمية، طماطم طازجة، حبق وزيت زيتون بكر",
+        "price": "900 DA",
+        "price_ar": "900 د.ج"
+      },
+      {
+        "name_fr": "Tomate Mozzarella",
+        "name_ar": "طماطم مع موزاريلا",
+        "desc_fr": "Tranches de tomates fraîches, mozzarella di bufala et pesto",
+        "desc_ar": "شرائح طماطم طازجة، جبن موزاريلا بيستو الريحان",
+        "price": "900 DA",
+        "price_ar": "900 د.ج"
+      },
+      {
+        "name_fr": "Tomate Stracciatella",
+        "name_ar": "طماطم ستراتشاتيلا",
+        "desc_fr": "Cœur crémeux de burrata stracciatella sur lit de tomates",
+        "desc_ar": "قلب البوراتا الكريمي ستراتشاتيلا على سرير من الطماطم",
+        "price": "900 DA",
+        "price_ar": "900 د.ج"
+      },
+      {
+        "name_fr": "Salade de Poulpe",
+        "name_ar": "سلطة أخطبوط",
+        "desc_fr": "Poulpe tendre mariné aux herbes fraîches, citron et huile d'olive",
+        "desc_ar": "أخطبوط طري متبل بالأعشاب الطازجة، ليمون وزيت زيتون",
+        "price": "1100 DA",
+        "price_ar": "1100 د.ج"
+      },
+      {
+        "name_fr": "Salade au Saumon",
+        "name_ar": "سلطة السلمون",
+        "desc_fr": "Saumon mariné, avocat, jeunes pousses et vinaigrette aux agrumes",
+        "desc_ar": "سلمون متبل، أفوكادو، خضار ورقية وصلصة حمضيات",
+        "price": "1600 DA",
+        "price_ar": "1600 د.ج"
+      },
+      {
+        "name_fr": "Salade Quinoa",
+        "name_ar": "سلطة الكينوا",
+        "desc_fr": "Quinoa gourmand, légumes croquants, grenade et vinaigrette légère",
+        "desc_ar": "كينوا صحية، خضار مقرمشة، رمان وتتبيلة خفيفة",
+        "price": "1200 DA",
+        "price_ar": "1200 د.ج"
+      },
+      {
+        "name_fr": "Salade au Thon",
+        "name_ar": "سلطة التونة",
+        "desc_fr": "Thon sélectionné, maïs doux, œufs durs, olives et crudités",
+        "desc_ar": "تونة ممتازة، ذرة حلوة، بيض مسلوق، زيتون وخضار طازجة",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Salade Variée",
+        "name_ar": "سلطة مشكلة",
+        "desc_fr": "Assortiment de crudités de saison fraîches et croquantes",
+        "desc_ar": "تشكيلة خضار موسمية طازجة ومتنوعة",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Assiette de Fromages",
+        "name_ar": "طبق أجبان مشكلة",
+        "desc_fr": "Sélection affinée de fromages avec fruits secs et crackers",
+        "desc_ar": "مجموعة مختارة من الأجبان الفاخرة مع مكسرات ومقرمشات",
+        "price": "1600 DA",
+        "price_ar": "1600 د.ج"
+      },
+      {
+        "name_fr": "Assiette de Piment",
+        "name_ar": "طبق فلفل حار",
+        "desc_fr": "Piments marinés traditionnels façon maison",
+        "desc_ar": "فلفل حار مرقد ومتبل على الطريقة التقليدية",
+        "price": "300 DA",
+        "price_ar": "300 د.ج"
+      },
+      {
+        "name_fr": "Cheesecake Salé au Saumon",
+        "name_ar": "تشيز كيك مالح بالسلمون",
+        "desc_fr": "Base biscuitée sablée, fromage frais onctueux et saumon fumé",
+        "desc_ar": "قاعدة بسكويت مالحة، جبن كريمي غني وسلمون مدخن",
+        "price": "1600 DA",
+        "price_ar": "1600 د.ج"
+      },
+      {
+        "name_fr": "Cheesecake Salé aux Crevettes",
+        "name_ar": "تشيز كيك مالح بالجمبري",
+        "desc_fr": "Crème de fromage fouettée, crevettes marinées et aneth",
+        "desc_ar": "كريمة جبن مخفوقة، جمبري متبل وأعشاب عطرية",
+        "price": "1400 DA",
+        "price_ar": "1400 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "entrees-chaudes",
+    "icon": "🍲",
+    "name_fr": "Entrées Chaudes",
+    "name_ar": "المقبلات الساخنة",
+    "desc_fr": "Pour bien démarrer votre repas avec des recettes réconfortantes.",
+    "desc_ar": "بداية مثالية لوجبتكم مع أطباق دافئة وشهية.",
+    "banner": "images/soupe_du_jour.jpg",
+    "items": [
+      {
+        "name_fr": "Soupe du Jour",
+        "name_ar": "شوربة اليوم",
+        "desc_fr": "Préparée quotidiennement avec des légumes frais et bouillon parfumé",
+        "desc_ar": "محضرة يومياً بالخضار الطازجة ومرق لذيذ وغني",
+        "price": "500 DA",
+        "price_ar": "500 د.ج",
+        "image": "images/soupe_du_jour.jpg"
+      },
+      {
+        "name_fr": "Camembert Pané",
+        "name_ar": "كاممبر مقرمش بانيه",
+        "desc_fr": "Camembert fondant enrobé d'une chapelure croustillante dorée",
+        "desc_ar": "جبن كاممبر ذائب مغلف بقشرة مقرمشة وذهبية",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Camembert Rôti au Miel",
+        "name_ar": "كاممبر مشوي بالعسل",
+        "desc_fr": "Rôti au four chaud avec filet de miel pur et éclats de noix",
+        "desc_ar": "مشوي في الفرن مع عسل طبيعي ومكسرات الجوز",
+        "price": "1000 DA",
+        "price_ar": "1000 د.ج"
+      },
+      {
+        "name_fr": "Omelette au Choix",
+        "name_ar": "أومليت حسب الاختيار",
+        "desc_fr": "Nature, fromage ou fines herbes selon votre goût",
+        "desc_ar": "سادة، بالجبن أو بالأعشاب حسب رغبتكم",
+        "price": "400 DA",
+        "price_ar": "400 د.ج"
+      },
+      {
+        "name_fr": "Omelette du Chef",
+        "name_ar": "أومليت الشيف المميز",
+        "desc_fr": "Recette spéciale du chef richement garnie et savoureuse",
+        "desc_ar": "وصفة الشيف الخاصة الغنية بالمكونات اللذيذة",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "double-bourek",
+    "icon": "🥟",
+    "name_fr": "Double Bourek",
+    "name_ar": "بوراك دوبل مقرمش",
+    "desc_fr": "Spécialité croustillante et généreuse à la feuille de brick dorée.",
+    "desc_ar": "بوراك جزائري تقليدي مقرمش بحشوة مضاعفة وغنية.",
+    "banner": "images/bourek.jpg",
+    "items": [
+      {
+        "name_fr": "Bourek Poulet",
+        "name_ar": "بوراك بالدجاج",
+        "desc_fr": "Feuille croustillante, farce au poulet émincé, fromage et persil",
+        "desc_ar": "ورقة مقرمشة محشوة بقطع الدجاج المتبلة، الجبن والبقدونس",
+        "price": "300 DA",
+        "price_ar": "300 د.ج",
+        "image": "images/bourek.jpg"
+      },
+      {
+        "name_fr": "Bourek Viande",
+        "name_ar": "بوراك باللحم المفروم",
+        "desc_fr": "Viande hachée assaisonnée aux oignons fondants et fromage",
+        "desc_ar": "لحم مفروم طازج مع بصل مكرمل وجبن ذائب",
+        "price": "400 DA",
+        "price_ar": "400 د.ج"
+      },
+      {
+        "name_fr": "Bourek Crevette",
+        "name_ar": "بوراك بالجمبري",
+        "desc_fr": "Crevettes fraîches sautées, crème douce et épices subtiles",
+        "desc_ar": "جمبري طازج مقلي مع كريمة خفيفة وتوابل مميزة",
+        "price": "900 DA",
+        "price_ar": "900 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "viandes-rouges",
+    "icon": "🥩",
+    "name_fr": "Viandes Rouges",
+    "name_ar": "اللحوم الحمراء",
+    "desc_fr": "Viandes de premier choix, grillées au feu de bois selon votre goût.",
+    "desc_ar": "لحوم ممتازة طازجة مشوية بعناية حسب درجة النضج المفضلة لديك.",
+    "banner": "images/filet_boeuf.jpg",
+    "items": [
+      {
+        "name_fr": "Entrecôte Grillée",
+        "name_ar": "أنتركوت مشوي",
+        "desc_fr": "Pièce noble persillée et tendre, servie avec accompagnement",
+        "desc_ar": "قطعة لحم بقر طرية وغنية بالنكهة مشوية على الفحم مع مقبلات",
+        "price": "1600 DA",
+        "price_ar": "1600 د.ج"
+      },
+      {
+        "name_fr": "Filet de Bœuf Grillé",
+        "name_ar": "فيليه لحم بقر مشوي",
+        "desc_fr": "Le morceau le plus fondant, grillé à la perfection",
+        "desc_ar": "أطرى قطعة لحم بقري تذوب في الفم مشوية بإتقان",
+        "price": "2500 DA",
+        "price_ar": "2500 د.ج",
+        "image": "images/filet_boeuf.jpg"
+      },
+      {
+        "name_fr": "Sauce au Choix",
+        "name_ar": "صلصة حسب الاختيار",
+        "desc_fr": "Crème Champignons / Aux Poivres / Sauce Roquefort",
+        "desc_ar": "كريمة الفطر / صلصة الفلفل الأسود / صلصة الروكفور الفرنسية",
+        "price": "300 DA",
+        "price_ar": "300 د.ج"
+      },
+      {
+        "name_fr": "Mechoui d'Agneau (1 pers)",
+        "name_ar": "شواء لحم خروف (شخص واحد)",
+        "desc_fr": "Agneau tendre cuit longuement à basse température, fondant en bouche",
+        "desc_ar": "لحم خروف مشوي على نار هادئة حتى يكتسب طراوة استثنائية",
+        "price": "3500 DA",
+        "price_ar": "3500 د.ج",
+        "image": "images/mechoui.jpg"
+      },
+      {
+        "name_fr": "Mechoui d'Agneau Complet",
+        "name_ar": "خروف مشوي كامل (مشوي)",
+        "desc_fr": "Agneau entier préparé selon la tradition pour banquets et événements",
+        "desc_ar": "خروف مشوي كامل محضر على الطريقة التقليدية للولائم والمناسبات",
+        "price": "Sur commande",
+        "price_ar": "حسب الطلب"
+      },
+      {
+        "name_fr": "Steak Haché Grillé",
+        "name_ar": "ستيك لحم مفروم مشوي",
+        "desc_fr": "Steak pur bœuf assaisonné, servi avec frites, riz safrané et légumes",
+        "desc_ar": "ستيك لحم بقر صافي متبل يقدم مع بطاطس مقلية، أرز وخضار سوتيه",
+        "price": "900 DA",
+        "price_ar": "900 د.ج",
+        "image": "images/steak_hache_assiette.jpg"
+      },
+      {
+        "name_fr": "Steak Haché aux 3 Fromages",
+        "name_ar": "ستيك لحم مفروم بثلاثة أجبان",
+        "desc_fr": "Nappé d'une onctueuse fondue de trois fromages affinés",
+        "desc_ar": "مغطى بطبقة سخية من مزيج ثلاثة أجبان ذائبة وغنية",
+        "price": "1200 DA",
+        "price_ar": "1200 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "viandes-blanches",
+    "icon": "🍗",
+    "name_fr": "Viandes Blanches",
+    "name_ar": "اللحوم البيضاء",
+    "desc_fr": "Volaille fraîche sélectionnée, recettes croustillantes ou mijotées.",
+    "desc_ar": "دواجن طازجة مختارة بوصفات مقرمشة أو متبلة بصلصات كريمية.",
+    "banner": "images/escalope_creme.jpg",
+    "items": [
+      {
+        "name_fr": "Escalope Grillée",
+        "name_ar": "إسكالوب مشوي",
+        "desc_fr": "Filet de poulet mariné aux herbes et grillé sainement",
+        "desc_ar": "صدر دجاج متبل بالأعشاب مشوي بطريقة صحية ولذيذة",
+        "price": "800 DA",
+        "price_ar": "800 د.ج"
+      },
+      {
+        "name_fr": "Escalope Panée",
+        "name_ar": "إسكالوب بانيه مقرمش",
+        "desc_fr": "Panure dorée et croustillante, cœur de poulet tendre",
+        "desc_ar": "دجاج مقرمش من الخارج وطري ولذيذ من الداخل",
+        "price": "1000 DA",
+        "price_ar": "1000 د.ج"
+      },
+      {
+        "name_fr": "Escalope à la Crème aux Champignons",
+        "name_ar": "إسكالوب بكريمة الفطر",
+        "desc_fr": "Nappée d'une riche sauce crème fraîche et champignons frais sautés",
+        "desc_ar": "مغطى بصلصة كريمية فاخرة وفطر طازج مطهو على نار هادئة",
+        "price": "1200 DA",
+        "price_ar": "1200 د.ج",
+        "image": "images/escalope_creme.jpg"
+      },
+      {
+        "name_fr": "Escalope Gratinée aux 3 Fromages",
+        "name_ar": "إسكالوب غراتيني بالأجبان الثلاثة",
+        "desc_fr": "Gratinée au four avec mozzarella, emmental et cheddar fondant",
+        "desc_ar": "محمر في الفرن مع جبن الموزاريلا، الإيمنتال والشيدر",
+        "price": "1200 DA",
+        "price_ar": "1200 د.ج"
+      },
+      {
+        "name_fr": "Cordon Bleu",
+        "name_ar": "كوردون بلو محشي",
+        "desc_fr": "Poulet croustillant farci de jambon de dinde et fromage fondant",
+        "desc_ar": "دجاج مقرمش محشو بجبن ذائب ومقطع ديك رومي مدخن",
+        "price": "1200 DA",
+        "price_ar": "1200 د.ج",
+        "image": "images/cordon_bleu.jpg"
+      },
+      {
+        "name_fr": "Cuisse de Poulet Marinée",
+        "name_ar": "فخذ دجاج متبل مشوي",
+        "desc_fr": "Marinée dans nos épices secrètes et rôtie à la perfection",
+        "desc_ar": "متبل بخلطة بهاراتنا الخاصة ومشوي حتى النضج الكامل",
+        "price": "900 DA",
+        "price_ar": "900 د.ج"
+      },
+      {
+        "name_fr": "Cuisse de Poulet Farcie",
+        "name_ar": "فخذ دجاج محشي فاخر",
+        "desc_fr": "Désossée et garnie d'une farce savoureuse du chef",
+        "desc_ar": "مفرغ من العظم ومحشو بخلطة الشيف الخاصة والشهية",
+        "price": "1200 DA",
+        "price_ar": "1200 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "poissons",
+    "icon": "🐟",
+    "name_fr": "Poissons & Crustacés",
+    "name_ar": "الأسماك وفواكه البحر",
+    "desc_fr": "Arrivage frais du jour, grillé au feu de bois ou poêlé à l'ail.",
+    "desc_ar": "صيد طازج يومي مشوي على الفحم أو محضر بالثوم والأعشاب.",
+    "banner": "images/dorade_grillee.jpg",
+    "items": [
+      {
+        "name_fr": "Dorade Royale",
+        "name_ar": "سمك الدواريد (Dorade)",
+        "desc_fr": "Grillée entière aux herbes et tranches de citron frais",
+        "desc_ar": "سمكة كاملة مشوية بالأعشاب والليمون الطازج",
+        "price": "Selon arrivage",
+        "price_ar": "حسب الصيد",
+        "image": "images/dorade_grillee.jpg"
+      },
+      {
+        "name_fr": "Pavé de Saumon",
+        "name_ar": "شريحة سلمون طازج",
+        "desc_fr": "Saisi à la perfection, chair tendre et peau croustillante",
+        "desc_ar": "سلمون مشوي بعناية مع لحم طري وقشرة مقرمشة",
+        "price": "Selon arrivage",
+        "price_ar": "حسب الصيد"
+      },
+      {
+        "name_fr": "Crevettes Royales",
+        "name_ar": "جمبري ملكي مشوي",
+        "desc_fr": "Sautées à l'ail, persil et huile d'olive vierge",
+        "desc_ar": "مقلي بزيت الزيتون البكر، الثوم والبقدونس الطازج",
+        "price": "Selon arrivage",
+        "price_ar": "حسب الصيد"
+      },
+      {
+        "name_fr": "Espadon Grillé",
+        "name_ar": "سمك أبو سيف مشوي",
+        "desc_fr": "Tranche épaisse grillée, texture steak de mer",
+        "desc_ar": "شريحة سمك سميكة مشوية بنكهة البحر المميزة",
+        "price": "Selon arrivage",
+        "price_ar": "حسب الصيد"
+      },
+      {
+        "name_fr": "Calamar Grillé / Frit",
+        "name_ar": "كالامار مشوي أو مقلي",
+        "desc_fr": "Anneaux de calamar tendres à la plancha ou croustillants",
+        "desc_ar": "حلقات كالامار طرية مشوية أو مقرمشة مع صلصة تارتار",
+        "price": "Selon arrivage",
+        "price_ar": "حسب الصيد"
+      },
+      {
+        "name_fr": "Merlan Frite",
+        "name_ar": "سمك الميرلان مقلي",
+        "desc_fr": "Chair blanche et délicate en friture dorée",
+        "desc_ar": "سمك ميرلان أبيض طازج مقلي ذهبي وخفيف",
+        "price": "Selon arrivage",
+        "price_ar": "حسب الصيد"
+      },
+      {
+        "name_fr": "Loup de Mer",
+        "name_ar": "سمك القاروص (Loup de Mer)",
+        "desc_fr": "Poisson noble au goût délicat, rôti entier",
+        "desc_ar": "سمك قاروص ملكي مشوي بنكهة فاخرة وخفيفة",
+        "price": "Selon arrivage",
+        "price_ar": "حسب الصيد"
+      },
+      {
+        "name_fr": "Rouget Barbet",
+        "name_ar": "سمك الروجي (Rouget)",
+        "desc_fr": "Grillé ou frit, saveur iodée authentique",
+        "desc_ar": "سمك روجي شهير مشوي أو مقلي بنكهة بحرية أصيلة",
+        "price": "Selon arrivage",
+        "price_ar": "حسب الصيد"
+      }
+    ]
+  },
+  {
+    "id": "pates",
+    "icon": "🍝",
+    "name_fr": "Les Pâtes 🇮🇹",
+    "name_ar": "المعكرونة الإيطالية 🇮🇹",
+    "desc_fr": "Recettes italiennes traditionnelles cuisinées à la minute.",
+    "desc_ar": "وصفات إيطالية أصيلة تطهى طازجة حسب الطلب.",
+    "banner": "images/spaghetti_bolognaise.jpg",
+    "items": [
+      {
+        "name_fr": "Spaghetti Bolognaise",
+        "name_ar": "سباغيتي بولونيز",
+        "desc_fr": "Sauce mijotée à la viande hachée, tomates italiennes et parmesan",
+        "desc_ar": "معكرونة سباغيتي مع صلصة اللحم المفروم والطماطم والبارميزان",
+        "price": "1200 DA",
+        "price_ar": "1200 د.ج",
+        "image": "images/spaghetti_bolognaise.jpg"
+      },
+      {
+        "name_fr": "Pasta Arrabiata 🌶",
+        "name_ar": "باستا أرابياتا حارة 🌶",
+        "desc_fr": "Sauce tomate piquante, ail doré, piment rouge et basilic frais",
+        "desc_ar": "صلصة طماطم حارة ومتبلة بالثوم، الفلفل الحار والريحان",
+        "price": "700 DA",
+        "price_ar": "700 د.ج"
+      },
+      {
+        "name_fr": "Tagliatelles Poulet Champignons",
+        "name_ar": "تالياتيلي بالدجاج والفطر",
+        "desc_fr": "Pâtes fraîches, émincé de poulet, champignons et crème onctueuse",
+        "desc_ar": "معكرونة تالياتيلي بشرائح الدجاج، فطر طازج وكريمة غنية",
+        "price": "900 DA",
+        "price_ar": "900 د.ج"
+      },
+      {
+        "name_fr": "Tagliatelles aux 3 Fromages",
+        "name_ar": "تالياتيلي بالأجبان الثلاثة",
+        "desc_fr": "Sauce crémeuse fondante à base de trois fromages sélectionnés",
+        "desc_ar": "معكرونة بصلصة ثلاثة أنواع من الجبن الإيطالي الكريمي",
+        "price": "900 DA",
+        "price_ar": "900 د.ج"
+      },
+      {
+        "name_fr": "Tagliatelles au Saumon Fumé",
+        "name_ar": "تالياتيلي بالسلمون المدخن",
+        "desc_fr": "Lanières de saumon fumé, crème légère et touche de ciboulette",
+        "desc_ar": "شرائح سلمون مدخن فاخر مع كريمة خفيفة ولمسة أعشاب",
+        "price": "1400 DA",
+        "price_ar": "1400 د.ج"
+      },
+      {
+        "name_fr": "Risotto aux Crevettes",
+        "name_ar": "ريزوتو بالجمبري",
+        "desc_fr": "Riz crémeux arborio cuit au bouillon de crustacés et crevettes royales",
+        "desc_ar": "أرز إيطالي أربوريو مطبوخ بمرق ثمار البحر مع جمبري شهي",
+        "price": "1400 DA",
+        "price_ar": "1400 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "grillades",
+    "icon": "🔥",
+    "name_fr": "Grillades",
+    "name_ar": "المشاوي على الفحم",
+    "desc_fr": "Brochettes savoureuses cuites sur braises ardentes.",
+    "desc_ar": "أسياخ كباب ومشويات شهية تطهى على الجمر المشتعل.",
+    "banner": "images/kebab.jpg",
+    "items": [
+      {
+        "name_fr": "Kebab Adana (03 brochettes)",
+        "name_ar": "كباب أضنة (3 أسياخ)",
+        "desc_fr": "Viande hachée d'agneau et bœuf épicée façon turque traditionnelle",
+        "desc_ar": "ثلاثة أسياخ كباب بلحم مفروم متبل بالبهارات التركية الحارة",
+        "price": "1200 DA",
+        "price_ar": "1200 د.ج",
+        "image": "images/kebab.jpg"
+      },
+      {
+        "name_fr": "Shish Kebab (04 brochettes)",
+        "name_ar": "شيش كباب (4 أسياخ)",
+        "desc_fr": "Brochettes marinées et tendres, parfumées au charbon de bois",
+        "desc_ar": "أربعة أسياخ كباب طري متبل ومشوي على الجمر",
+        "price": "1200 DA",
+        "price_ar": "1200 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "gratins",
+    "icon": "🧀",
+    "name_fr": "Gratins au Four",
+    "name_ar": "الغراتان في الفرن",
+    "desc_fr": "Pommes de terre fondantes, béchamel onctueuse et croûte gratinée.",
+    "desc_ar": "بطاطا طرية مع صلصة بيشاميل وجبن محمر في الفرن.",
+    "banner": "images/gratin.jpg",
+    "items": [
+      {
+        "name_fr": "Gratin Poulet",
+        "name_ar": "غراتان بالدجاج",
+        "desc_fr": "Émincé de poulet tendre, crème, pommes de terre et fromage fondu",
+        "desc_ar": "دجاج مقطع مع بطاطا وكريمة بيشاميل وجبن محمر",
+        "price": "500 DA",
+        "price_ar": "500 د.ج",
+        "image": "images/gratin.jpg"
+      },
+      {
+        "name_fr": "Gratin Viande",
+        "name_ar": "غراتان باللحم المفروم",
+        "desc_fr": "Viande hachée savoureuse, sauce béchamel et emmental gratiné",
+        "desc_ar": "لحم مفروم متبل مع صلصة كريمية وطبقة جبن ذهبية",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Gratin Crevette",
+        "name_ar": "غراتان بالجمبري",
+        "desc_fr": "Crevettes fraîches, crème parfumée aux herbes et fromage doré",
+        "desc_ar": "جمبري طازج مع كريمة الأعشاب وجبن ذائب محمر",
+        "price": "900 DA",
+        "price_ar": "900 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "pizza",
+    "icon": "🍕",
+    "name_fr": "Pizzas au Feu de Bois 🔥",
+    "name_ar": "بيتزا على حطب الفرن 🔥",
+    "desc_fr": "Pâte artisanale étalée à la main, cuisson traditionnelle. Sauce au choix : Tomate ou Blanche.",
+    "desc_ar": "عجينة يدوية مقرمشة مخبوزة على الحطب. الصلصة حسب اختيارك: طماطم أو بيضاء.",
+    "banner": "images/pizza_feu_de_bois.jpg",
+    "items": [
+      {
+        "name_fr": "Pizza Big House (Surprise du Chef)",
+        "name_ar": "بيتزا بيغ هاوس (مفاجأة الشيف)",
+        "desc_fr": "La création signature généreuse et secrète de la maison",
+        "desc_ar": "بيتزا خاصة وحصرية محشوة بتشكيلة سرية من أفخر المكونات",
+        "price": "1400 DA",
+        "price_ar": "1400 د.ج",
+        "image": "images/pizza_feu_de_bois.jpg"
+      },
+      {
+        "name_fr": "Pizza Burrata",
+        "name_ar": "بيتزا بوراتا إيطالية",
+        "desc_fr": "Sauce tomate/blanche, mozzarella, cœur de burrata crémeuse et roquette",
+        "desc_ar": "صلصة، موزاريلا، كرة جبن بوراتا كريمية مع جرجير طازج",
+        "price": "1200 DA",
+        "price_ar": "1200 د.ج",
+        "image": "images/pizza_burrata.jpg"
+      },
+      {
+        "name_fr": "Pizza Margharita",
+        "name_ar": "بيتزا مارغريتا كلاسيكية",
+        "desc_fr": "Sauce tomate parfumée, mozzarella fondante et basilic",
+        "desc_ar": "صلصة طماطم غنية، جبنة موزاريلا ذائبة وريحان طازج",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Pizza Végétarienne",
+        "name_ar": "بيتزا نباتية",
+        "desc_fr": "Sauce, mozzarella, poivrons, courgettes, champignons et oignons",
+        "desc_ar": "خضار مشكلة طازجة، فطر، فلفل، بصل وجبنة موزاريلا",
+        "price": "650 DA",
+        "price_ar": "650 د.ج"
+      },
+      {
+        "name_fr": "Pizza Merguez",
+        "name_ar": "بيتزا بالمرقاز البلدي",
+        "desc_fr": "Sauce, mozzarella et merguez épicé artisanal grillé",
+        "desc_ar": "مرقاز حار ومشوي متبل بعناية مع جبنة موزاريلا",
+        "price": "700 DA",
+        "price_ar": "700 د.ج"
+      },
+      {
+        "name_fr": "Pizza Viande",
+        "name_ar": "بيتزا باللحم المفروم",
+        "desc_fr": "Sauce, mozzarella, viande hachée pur bœuf assaisonnée",
+        "desc_ar": "لحم بقري مفروم متبل مع صلصة طماطم وموزاريلا",
+        "price": "800 DA",
+        "price_ar": "800 د.ج"
+      },
+      {
+        "name_fr": "Pizza Poulet",
+        "name_ar": "بيتزا بالدجاج",
+        "desc_fr": "Sauce, mozzarella, blancs de poulet marinés et herbes",
+        "desc_ar": "قطع دجاج متبلة ومشوية مع صلصة وجبنة موزاريلا",
+        "price": "700 DA",
+        "price_ar": "700 د.ج"
+      },
+      {
+        "name_fr": "Pizza Poulet Fumé",
+        "name_ar": "بيتزا بالدجاج المدخن",
+        "desc_fr": "Sauce, mozzarella et tranches de poulet fumé savoureux",
+        "desc_ar": "دجاج مدخن بنكهة رائعة مع صلصة وجبنة موزاريلا",
+        "price": "700 DA",
+        "price_ar": "700 د.ج"
+      },
+      {
+        "name_fr": "Pizza Thon",
+        "name_ar": "بيتزا بالتونة",
+        "desc_fr": "Sauce, mozzarella, thon émietté, olives noires et oignons",
+        "desc_ar": "تونة فاخرة، زيتون أسود، بصل مقرمش وجبنة موزاريلا",
+        "price": "750 DA",
+        "price_ar": "750 د.ج"
+      },
+      {
+        "name_fr": "Pizza Champignons",
+        "name_ar": "بيتزا الفطر الطازج",
+        "desc_fr": "Sauce, mozzarella et champignons frais de Paris sautés",
+        "desc_ar": "فطر طازج مقلي مع صلصة وجبنة موزاريلا ذائبة",
+        "price": "750 DA",
+        "price_ar": "750 د.ج"
+      },
+      {
+        "name_fr": "Pizza 3 Fromages",
+        "name_ar": "بيتزا ثلاثة أجبان",
+        "desc_fr": "Sauce, mozzarella, camembert fondant et cheddar affiné",
+        "desc_ar": "موزاريلا، جبنة كاممبر الفرنسية وشيدر إنجليزي",
+        "price": "800 DA",
+        "price_ar": "800 د.ج"
+      },
+      {
+        "name_fr": "Pizza Napolitaine",
+        "name_ar": "بيتزا نابوليتانا",
+        "desc_fr": "Sauce tomate, mozzarella, anchois salés et câpres",
+        "desc_ar": "طماطم، موزاريلا، سمك الأنشوفة الإيطالي وكبر مخلل",
+        "price": "800 DA",
+        "price_ar": "800 د.ج"
+      },
+      {
+        "name_fr": "Pizza Crevettes",
+        "name_ar": "بيتزا بالجمبري",
+        "desc_fr": "Sauce, mozzarella, crevettes fraîches sautées à l'ail",
+        "desc_ar": "جمبري طازج مقلي بالثوم مع صلصة وجبنة موزاريلا",
+        "price": "1000 DA",
+        "price_ar": "1000 د.ج"
+      },
+      {
+        "name_fr": "Pizza Saumon",
+        "name_ar": "بيتزا بالسلمون",
+        "desc_fr": "Sauce, mozzarella, lamelles de saumon et crème fraîche",
+        "desc_ar": "شرائح سلمون ناعمة مع كريمة وجبنة موزاريلا",
+        "price": "1000 DA",
+        "price_ar": "1000 د.ج"
+      },
+      {
+        "name_fr": "Pizza Fruits de Mer",
+        "name_ar": "بيتزا فواكه البحر",
+        "desc_fr": "Sauce, mozzarella, crevettes, calamars et moules",
+        "desc_ar": "تشكيلة بحرية من الجمبري، الكالامار وبلح البحر",
+        "price": "1000 DA",
+        "price_ar": "1000 د.ج"
+      },
+      {
+        "name_fr": "Pizza Mixte",
+        "name_ar": "بيتزا ميكست (مشكلة)",
+        "desc_fr": "Sauce, mozzarella et composition d'ingrédients à votre choix",
+        "desc_ar": "تشكيلة حسب اختياركم من اللحوم والخضار والجبن",
+        "price": "900 DA",
+        "price_ar": "900 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "mojitos",
+    "icon": "🍹",
+    "name_fr": "Mojitos Frais",
+    "name_ar": "موهيتو منعش ومثلج",
+    "desc_fr": "Citron vert pilé, menthe fraîche, glace pilée et saveurs fruitées.",
+    "desc_ar": "ليمون أخضر طازج، نعناع بلدي، ثلج مجروش ونكهات فواكه طبيعية.",
+    "banner": "images/mojito.jpg",
+    "items": [
+      {
+        "name_fr": "Mojito Citron Menthe",
+        "name_ar": "موهيتو ليمون ونعناع كلاسيك",
+        "desc_fr": "La recette originale ultra-rafraîchissante",
+        "desc_ar": "الوصفة الأصلية الكلاسيكية المنعشة والباردة",
+        "price": "500 DA",
+        "price_ar": "500 د.ج",
+        "image": "images/mojito.jpg"
+      },
+      {
+        "name_fr": "Mojito Classique",
+        "name_ar": "موهيتو كلاسيك",
+        "desc_fr": "Citron vert, sucre de canne, menthe et eau pétillante",
+        "desc_ar": "ليمون، سكر قصب، نعناع ومياه فوارة منعشة",
+        "price": "550 DA",
+        "price_ar": "550 د.ج"
+      },
+      {
+        "name_fr": "Mojito Fraise",
+        "name_ar": "موهيتو فراولة طبيعية",
+        "desc_fr": "Purée de fraises fraîches, menthe et citron vert",
+        "desc_ar": "فراولة طبيعية مهروسة مع نعناع وليمون",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Mojito Bleu",
+        "name_ar": "موهيتو أزرق كوراكاو",
+        "desc_fr": "Saveur curaçao bleu tropical rafraîchissant",
+        "desc_ar": "نكهة الكوراكاو الاستوائية الزرقاء المنعشة",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Mojito Lychee",
+        "name_ar": "موهيتو ليتشي آسيوي",
+        "desc_fr": "Douceur florale et exotique du litchi",
+        "desc_ar": "نكهة فاكهة الليتشي الآسيوية العطرة والحلوة",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Mojito Mango",
+        "name_ar": "موهيتو مانجو استوائي",
+        "desc_fr": "Nectar de mangue onctueux et citron vert",
+        "desc_ar": "مانجو استوائية غنية مع ليمون ونعناع",
+        "price": "700 DA",
+        "price_ar": "700 د.ج"
+      },
+      {
+        "name_fr": "Mojito Red Fruits",
+        "name_ar": "موهيتو فواكه حمراء",
+        "desc_fr": "Mélange acidulé de fruits rouges sauvages",
+        "desc_ar": "مزيج توت بري وفواكه حمراء منعشة",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Mojito Forest Fruits",
+        "name_ar": "موهيتو فواكه الغابة",
+        "desc_fr": "Mûres, myrtilles et framboises écrasées",
+        "desc_ar": "توت أسود، توت أزرق وتوت العليق المنعش",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Mojito Passion Fruits",
+        "name_ar": "موهيتو باشن فروت (ماراكوجا)",
+        "desc_fr": "Saveur exotique et intense du fruit de la passion",
+        "desc_ar": "فاكهة الآلام الاستوائية بنكهة حامضة وحلوة",
+        "price": "700 DA",
+        "price_ar": "700 د.ج"
+      },
+      {
+        "name_fr": "Mojito Tropical Fruits",
+        "name_ar": "موهيتو فواكه استوائية",
+        "desc_fr": "Cocktail de fruits exotiques gorgés de soleil",
+        "desc_ar": "كوكتيل فواكه استوائية صيفية منعشة ولذيذة",
+        "price": "750 DA",
+        "price_ar": "750 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "jus",
+    "icon": "🧃",
+    "name_fr": "Jus de Fruits Pressés",
+    "name_ar": "عصائر طبيعية طازجة",
+    "desc_fr": "100% pur fruit, pressé ou mixé minute sans conservateur.",
+    "desc_ar": "عصائر طبيعية 100% معصورة طازجة بدون أي إضافات.",
+    "banner": "images/jus_orange.jpg",
+    "items": [
+      {
+        "name_fr": "Jus d'Orange Pressé",
+        "name_ar": "عصير برتقال طبيعي معصور",
+        "desc_fr": "Oranges fraîches pressées à la commande",
+        "desc_ar": "برتقال طازج معصور فور الطلب غني بفيتامين C",
+        "price": "500 DA",
+        "price_ar": "500 د.ج",
+        "image": "images/jus_orange.jpg"
+      },
+      {
+        "name_fr": "Jus de Citron (Citronnade)",
+        "name_ar": "عصير ليمون طبيعي (ليموناضة)",
+        "desc_fr": "Citron pressé avec feuille de menthe fraîche",
+        "desc_ar": "ليموناضة طازجة مع أوراق النعناع المنعشة",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Jus de Fraise",
+        "name_ar": "عصير فراولة طبيعية",
+        "desc_fr": "Fraises gorgées de soleil mixées minute",
+        "desc_ar": "فراولة حمراء ناضجة مخفوقة في الحين",
+        "price": "550 DA",
+        "price_ar": "550 د.ج"
+      },
+      {
+        "name_fr": "Jus de Grenadine",
+        "name_ar": "عصير رمان طبيعي",
+        "desc_fr": "Saveur douce et parfumée de la grenade",
+        "desc_ar": "عصير رمان حلو ومنعش ذو لون جذاب",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Jus de Banane",
+        "name_ar": "عصير موز بالحليب",
+        "desc_fr": "Bananes douces mixées avec une touche de lait",
+        "desc_ar": "موز طري مخفوق مع حليب طازج",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Jus d'Ananas",
+        "name_ar": "عصير أناناس استوائي",
+        "desc_fr": "Ananas tropical frais et désaltérant",
+        "desc_ar": "أناناس استوائي طازج يروي العطش",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Jus de Framboise",
+        "name_ar": "عصير توت العليق (فواز)",
+        "desc_fr": "Framboises sauvages mixées glacées",
+        "desc_ar": "توت العليق الأحمر بنكهة مميزة وغنية",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Carafe au Choix (1 Litre)",
+        "name_ar": "إبريق عصير عائلي (1 لتر)",
+        "desc_fr": "Format à partager parmi notre sélection de jus",
+        "desc_ar": "إبريق كبير للعائلات والمجموعات بالنكهة التي تختارونها",
+        "price": "1800 DA",
+        "price_ar": "1800 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "mocktails",
+    "icon": "🍸",
+    "name_fr": "Mocktails Maison",
+    "name_ar": "كوكتيلات فاخرة بدون كحول",
+    "desc_fr": "Créations sans alcool signatures, subtiles et colorées.",
+    "desc_ar": "إبداعات مبتكرة بألوان زاهية ونكهات مميزة بدون كحول.",
+    "banner": "images/mocktail_bleu.jpg",
+    "items": [
+      {
+        "name_fr": "Bleu Hawaiian",
+        "name_ar": "بلو هاواي",
+        "desc_fr": "Ananas, curaçao bleu sans alcool et crème de coco douce",
+        "desc_ar": "أناناس، كوراكاو أزرق وحليب جوز الهند الناعم",
+        "price": "600 DA",
+        "price_ar": "600 د.ج",
+        "image": "images/mocktail_bleu.jpg"
+      },
+      {
+        "name_fr": "Green Paradise",
+        "name_ar": "جرين بارادايس (الجنة الخضراء)",
+        "desc_fr": "Kiwi, pomme verte acidulée et menthe fraîche",
+        "desc_ar": "كيوي، تفاح أخضر ونعناع منعش مثلج",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Cuba Libre (Sans alcool)",
+        "name_ar": "كوبا ليبري بدون كحول",
+        "desc_fr": "Cola frais, quartier de citron vert et sucre brun",
+        "desc_ar": "كولا باردة مع ليمون أخضر وسكر أسمر مكرمل",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Bora Bora",
+        "name_ar": "بورا بورا استوائي",
+        "desc_fr": "Ananas, fruit de la passion et sirop de grenadine",
+        "desc_ar": "أناناس، باشن فروت وشراب رمان مميز",
+        "price": "550 DA",
+        "price_ar": "550 د.ج"
+      },
+      {
+        "name_fr": "Pina Colada (Virgin)",
+        "name_ar": "بينا كولادا فيرجن",
+        "desc_fr": "Purée d'ananas, crème de coco fouettée et cerise confite",
+        "desc_ar": "أناناس طازج مع كريمة جوز الهند وحبة كرز",
+        "price": "650 DA",
+        "price_ar": "650 د.ج"
+      },
+      {
+        "name_fr": "Pink Colada",
+        "name_ar": "بينك كولادا الوردية",
+        "desc_fr": "Noix de coco, fraise des bois et ananas sucré",
+        "desc_ar": "جوز هند، فراولة برية وأناناس حلو ولذيذ",
+        "price": "650 DA",
+        "price_ar": "650 د.ج"
+      },
+      {
+        "name_fr": "Lost Cherry",
+        "name_ar": "لوست شيري (كرز ضائع)",
+        "desc_fr": "Cerises noires intenses, amande douce et zeste de citron",
+        "desc_ar": "كرز أسود غني، لوز حلو مع لمسة حامضة خفيفة",
+        "price": "700 DA",
+        "price_ar": "700 د.ج"
+      },
+      {
+        "name_fr": "Tropical Fruits Mocktail",
+        "name_ar": "كوكتيل فواكه استوائية",
+        "desc_fr": "Mangue, goyave, ananas et jus d'orange sanguine",
+        "desc_ar": "مانجو، جوافة، أناناس وبرتقال يافاوي مميز",
+        "price": "750 DA",
+        "price_ar": "750 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "milkshakes",
+    "icon": "🥤",
+    "name_fr": "Milkshakes Gourmands",
+    "name_ar": "ميلك شيك كريمي ولذيذ",
+    "desc_fr": "Glace artisanale, lait entier frais et dôme de chantilly.",
+    "desc_ar": "آيس كريم فاخر، حليب طازج مع طبقة كريمة شانتيه شهية.",
+    "banner": "images/milkshake_fraise.jpg",
+    "items": [
+      {
+        "name_fr": "Milkshake Fraise",
+        "name_ar": "ميلك شيك فراولة",
+        "desc_fr": "Glace fraise, coulis de fruits rouges et chantilly",
+        "desc_ar": "آيس كريم فراولة مع صلصة التوت وكريمة شانتيه",
+        "price": "650 DA",
+        "price_ar": "650 د.ج",
+        "image": "images/milkshake_fraise.jpg"
+      },
+      {
+        "name_fr": "Milkshake Banane",
+        "name_ar": "ميلك شيك موز",
+        "desc_fr": "Banane fraîche mixée avec glace vanille Bourbon",
+        "desc_ar": "موز طازج مع آيس كريم الفانيلا الغنية",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Milkshake Banane Caramel",
+        "name_ar": "ميلك شيك موز كراميل",
+        "desc_fr": "Coulis de caramel au beurre salé et rondelles de banane",
+        "desc_ar": "صلصة كراميل بالزبدة مع قطع الموز اللذيذة",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Milkshake Nutella Banane",
+        "name_ar": "ميلك شيك نوتيلا وموز",
+        "desc_fr": "Généreuse cuillère de Nutella et banane fraîche",
+        "desc_ar": "شوكولاتة نوتيلا أصلية مع موز وحليب بارد",
+        "price": "650 DA",
+        "price_ar": "650 د.ج"
+      },
+      {
+        "name_fr": "Milkshake Nutella Pur",
+        "name_ar": "ميلك شيك نوتيلا",
+        "desc_fr": "Tout chocolat aux éclats de noisettes croquantes",
+        "desc_ar": "نوتيلا غنية مع حبات البندق المحمصة المقرمشة",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Milkshake Forest Fruits",
+        "name_ar": "ميلك شيك فواكه الغابة",
+        "desc_fr": "Myrtilles, mûres et framboises sauvages",
+        "desc_ar": "توت بري غابي مميز مع كريمة مثلجة",
+        "price": "700 DA",
+        "price_ar": "700 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "desserts",
+    "icon": "🍰",
+    "name_fr": "Desserts de la Maison",
+    "name_ar": "حلويات وتحليات البيت",
+    "desc_fr": "Douceurs sucrées préparées avec passion par nos chefs pâtissiers.",
+    "desc_ar": "تحليات وحلويات فاخرة محضرة بحرفية وشغف لإرضاء ذوقكم.",
+    "banner": "images/creme_brulee.jpg",
+    "items": [
+      {
+        "name_fr": "Crème Brûlée",
+        "name_ar": "كريم بروليه فرنسية",
+        "desc_fr": "Crème vanille onctueuse sous une fine couche de caramel craquant",
+        "desc_ar": "كريمة فانيليا مخملية تحت طبقة سكر كراميل مكرملة ومقرمشة",
+        "price": "450 DA",
+        "price_ar": "450 د.ج",
+        "image": "images/creme_brulee.jpg"
+      },
+      {
+        "name_fr": "Saint Sebastian Cheesecake",
+        "name_ar": "تشيز كيك سان سيباستيان",
+        "desc_fr": "Cheesecake basque brûlé ultra-crémeux avec coulis chocolat chaud",
+        "desc_ar": "تشيز كيك إسباني محمر من الأعلى وطري يذوب في الفم مع شوكولاتة",
+        "price": "750 DA",
+        "price_ar": "750 د.ج",
+        "image": "images/san_sebastian.jpg"
+      },
+      {
+        "name_fr": "Tiramisu Italien",
+        "name_ar": "تيراميسو إيطالي أصلي",
+        "desc_fr": "Biscuits café, mascarpone aéré et poudre de cacao amer",
+        "desc_ar": "بسكويت منقوع بالقهوة مع جبن ماسكاربوني وبودرة كاكاو",
+        "price": "500 DA",
+        "price_ar": "500 د.ج",
+        "image": "images/tiramisu.jpg"
+      },
+      {
+        "name_fr": "Fondant au Chocolat",
+        "name_ar": "فوندان الشوكولاتة الذائب",
+        "desc_fr": "Gâteau tiède avec cœur coulant au chocolat noir intense",
+        "desc_ar": "كيك دافئ محشو بقلب شوكولاتة داكنة ذائبة ولذيذة",
+        "price": "600 DA",
+        "price_ar": "600 د.ج"
+      },
+      {
+        "name_fr": "Flan Caramel",
+        "name_ar": "فلان بالكراميل",
+        "desc_fr": "Flan maison traditionnel nappé de son caramel ambré",
+        "desc_ar": "فلان منزلي تقليدي ناعم مع طبقة كراميل ذهبية",
+        "price": "400 DA",
+        "price_ar": "400 د.ج"
+      },
+      {
+        "name_fr": "Mousse au Chocolat",
+        "name_ar": "موس الشوكولاتة الهوائية",
+        "desc_fr": "Mousse aérienne au chocolat pur cacao 70%",
+        "desc_ar": "موس خفيفة وهشة بشوكولاتة سوداء ممتازة",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Nougat Glacé",
+        "name_ar": "نوغا مثلجة بالمكسرات",
+        "desc_fr": "Glace au miel, pistaches grillées et coulis framboise",
+        "desc_ar": "نوغا باردة بالعسل، الفستق المحمص وصلصة الفراولة",
+        "price": "800 DA",
+        "price_ar": "800 د.ج"
+      },
+      {
+        "name_fr": "Brownies aux Noix",
+        "name_ar": "براونيز بالجوز",
+        "desc_fr": "Carré fondant au chocolat noir et éclats de noix de Grenoble",
+        "desc_ar": "قطعة براونيز شوكولاتة غنية بقطع الجوز المقرمشة",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Salade de Fruits Frais",
+        "name_ar": "سلطة فواكه طازجة",
+        "desc_fr": "Sélection de fruits coupés du jour et sirop léger à la fleur d'oranger",
+        "desc_ar": "تشكيلة فواكه موسمية مقطعة مع لمسة ماء زهر منعشة",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Assiette de Fruits de Saison",
+        "name_ar": "صحن فواكه الموسم",
+        "desc_fr": "Assortiment soigné de fruits entiers et en tranches",
+        "desc_ar": "صحن فواكه طازجة مختارة بعناية للتقديم الفاخر",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "gateaux",
+    "icon": "🎂",
+    "name_fr": "Gâteaux du Jour",
+    "name_ar": "كعك وتورتات اليوم",
+    "desc_fr": "Parts de gâteaux pâtissiers frais de la vitrine.",
+    "desc_ar": "قطع كعك باتيسري طازجة من واجهة الحلويات يومياً.",
+    "banner": "images/gateau_chocolat.jpg",
+    "items": [
+      {
+        "name_fr": "Pavé au Chocolat",
+        "name_ar": "بافي الشوكولاتة الفاخر",
+        "desc_fr": "Génoise moelleuse et ganache crémeuse pur chocolat",
+        "desc_ar": "كيك إسفنجي طري مع طبقات غاناش شوكولاتة ناعمة",
+        "price": "500 DA",
+        "price_ar": "500 د.ج",
+        "image": "images/gateau_chocolat.jpg"
+      },
+      {
+        "name_fr": "Fraisier Pâtissier",
+        "name_ar": "كعكة الفريزييه بالفراولة",
+        "desc_fr": "Fraises fraîches, crème mousseline vanillée et génoise légère",
+        "desc_ar": "فراولة طازجة مع كريمة فانيليا فرنسية وكيك هش",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Snickers Cake",
+        "name_ar": "كعكة سنيكرز بالكراميل والفول السوداني",
+        "desc_fr": "Caramel coulant, cacahuètes grillées et chocolat au lait",
+        "desc_ar": "كراميل ذائب، فول سوداني محمص وشوكولاتة بالحليب",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Trois Chocolats",
+        "name_ar": "تورتة الشوكولاتة الثلاثية",
+        "desc_fr": "Trio de mousses chocolat noir, lait et blanc sur biscuit croquant",
+        "desc_ar": "ثلاث طبقات موس شوكولاتة سوداء، بيضاء وبالحليب",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Délice Nutella",
+        "name_ar": "ديليس نوتيلا",
+        "desc_fr": "Glaçage miroir Nutella et noisettes torréfiées",
+        "desc_ar": "كيك مغطى بصلصة النوتيلا الغنية مع البندق المحمص",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      },
+      {
+        "name_fr": "Ferrero Rocher Cake",
+        "name_ar": "كعكة فيريرو روشيه",
+        "desc_fr": "Saveur pralinée noisette et chocolat croquant",
+        "desc_ar": "نكهة برالينيه البندق وشوكولاتة روشيه المقرمشة",
+        "price": "550 DA",
+        "price_ar": "550 د.ج"
+      },
+      {
+        "name_fr": "Cheesecake au Choix",
+        "name_ar": "تشيز كيك متنوع",
+        "desc_fr": "Fruits Rouges, Lotus Biscoff ou Pistache d'Iran",
+        "desc_ar": "توت أحمر، زبدة لوتس بسكوف أو فستق حلبي فاخر",
+        "price": "500 DA",
+        "price_ar": "500 د.ج"
+      }
+    ]
+  },
+  {
+    "id": "cafes",
+    "icon": "☕",
+    "name_fr": "Les Cafés & Boissons Chaudes",
+    "name_ar": "القهوة والمشروبات الساخنة",
+    "desc_fr": "Sélection des plus grands crus de café et thés parfumés.",
+    "desc_ar": "أجود أنواع حبوب البن العالمية والشاي العطري المنعش.",
+    "banner": "images/cappuccino.jpg",
+    "items": [
+      {
+        "name_fr": "Cappuccino Mousseux",
+        "name_ar": "كابتشينو برغوة الحليب",
+        "desc_fr": "Espresso serré, mousse de lait veloutée et latte art",
+        "desc_ar": "إسبريسو غني برغوة حليب ناعمة ورسم اللاتيه المميز",
+        "price": "300 DA",
+        "price_ar": "300 د.ج",
+        "image": "images/cappuccino.jpg"
+      },
+      {
+        "name_fr": "Café Caps",
+        "name_ar": "قهوة كابسول",
+        "desc_fr": "Espresso classique équilibré",
+        "desc_ar": "قهوة إسبريسو كبسولة متوازنة النكهة",
+        "price": "150 DA",
+        "price_ar": "150 د.ج"
+      },
+      {
+        "name_fr": "Café L'Or",
+        "name_ar": "قهوة لور (L'Or Espresso)",
+        "desc_fr": "Grand arôme intense et crème dorée",
+        "desc_ar": "إسبريسو فرنسي فاخر ذو نكهة قوية ورغوة ذهبية",
+        "price": "200 DA",
+        "price_ar": "200 د.ج"
+      },
+      {
+        "name_fr": "Café Davidoff",
+        "name_ar": "قهوة دافيدوف السويسرية",
+        "desc_fr": "Café suisse d'excellence pour les connaisseurs",
+        "desc_ar": "قهوة سويسرية راقية لمحبي القهوة الفاخرة",
+        "price": "200 DA",
+        "price_ar": "200 د.ج"
+      },
+      {
+        "name_fr": "Café Illy",
+        "name_ar": "قهوة إيلي الإيطالية (Illy)",
+        "desc_fr": "100% pur Arabica italien au profil floral",
+        "desc_ar": "أرابيكا إيطالية نقية 100% بنكهة غنية ومميزة",
+        "price": "300 DA",
+        "price_ar": "300 د.ج"
+      },
+      {
+        "name_fr": "Café Nespresso",
+        "name_ar": "قهوة نسبريسو",
+        "desc_fr": "Cru sélectionné Nespresso intense et aromatique",
+        "desc_ar": "قهوة نسبريسو المركزة بالنكهة السويسرية الشهيرة",
+        "price": "300 DA",
+        "price_ar": "300 د.ج"
+      },
+      {
+        "name_fr": "Café au Lait",
+        "name_ar": "قهوة بالحليب",
+        "desc_fr": "Café doux allongé de lait chaud onctueux",
+        "desc_ar": "قهوة مع حليب ساخن ناعم ومهدئ للأعصاب",
+        "price": "250 DA",
+        "price_ar": "250 د.ج"
+      },
+      {
+        "name_fr": "Café Glacé (Caramel/Vanille/Noisette)",
+        "name_ar": "قهوة مثلجة (كراميل / فانيلا / بندق)",
+        "desc_fr": "Espresso secoué sur glace pilée et sirop au choix",
+        "desc_ar": "إسبريسو بارد مخفوق مع ثلج ونكهة من اختياركم",
+        "price": "300 DA",
+        "price_ar": "300 د.ج"
+      },
+      {
+        "name_fr": "Affogato al Caffè",
+        "name_ar": "أفوغاتو إيطالي بالآيس كريم",
+        "desc_fr": "Boule de glace vanille artisanale noyée dans un espresso chaud",
+        "desc_ar": "كرة آيس كريم فانيليا تغرق في قهوة إسبريسو ساخنة",
+        "price": "300 DA",
+        "price_ar": "300 د.ج"
+      },
+      {
+        "name_fr": "Thé Traditionnel Maison",
+        "name_ar": "شاي تقليدي بالنعناع",
+        "desc_fr": "Infusé à la menthe fraîche parfumée",
+        "desc_ar": "شاي جزائري تقليدي مخدر بالنعناع الطازج",
+        "price": "100 DA",
+        "price_ar": "100 د.ج"
+      },
+      {
+        "name_fr": "Thé Infusion Plantes",
+        "name_ar": "شاي أعشاب منوعة",
+        "desc_fr": "Camomille, verveine ou thé vert bienfaisant",
+        "desc_ar": "بابونج، لويزة أو شاي أخضر صحي ومريح",
+        "price": "150 DA",
+        "price_ar": "150 د.ج"
+      }
+    ]
+  }
+]
